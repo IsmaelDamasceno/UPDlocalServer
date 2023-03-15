@@ -10,4 +10,4 @@ O código se encontra na pasta ./codigo/UPDlocalServer.cpp
 
 informações sobre a linguagem c++ utlizada, SO, e arquitetura computacional
 
-c++ 20, windows 64 bits
+c++ 20, windows x64
