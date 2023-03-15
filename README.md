@@ -14,7 +14,7 @@ informações sobre a linguagem c++ utlizada, SO, e arquitetura computacional
 
 c++ 20, windows x64
 
-## Detalhes téctnicos
+## Como funciona?
 
 ### Visual studio code: "tasks"
 O atalho funciona por meio de uma ferramenta do visual studio chamada "tasks", uma task é uma tarefa executada pelo visual studio code. As tarefas
