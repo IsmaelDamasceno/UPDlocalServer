@@ -17,7 +17,7 @@ c++ 20, windows x64
 ## Como funciona?
 
 ### Visual studio code: "tasks"
-O atalho funciona por meio de uma ferramenta do visual studio chamada "tasks", uma task é uma tarefa executada pelo visual studio code. As tarefas
+O atalho funciona por meio de uma ferramenta do visual studio code chamada "tasks", uma task é uma tarefa executada pelo visual studio code. As tarefas
 ficam localizadas em "{psta do seu projeto}/.vscode/tasks.json".
 
 ### A task em questão:
