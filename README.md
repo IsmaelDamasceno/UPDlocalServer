@@ -1,7 +1,7 @@
 # UPDlocalServer
 Programa para configurar um atalho de teclado do visual studio code, que ajuda a atualizar os arquivos para a pasta www
 
-Use o atalho ctrl + shift + B apos configurar os arquivos
+Use o atalho ctrl + shift + B apos atualizar a pasta www
 
 ## Caso queria usar
 O executável se encontra na pasta ./executavel/UPDlocalServer.exe
